@@ -42,4 +42,3 @@ Objective: This test will be a fully functional web application that will displa
 
 //Run API test
 php vendor/bin/codecept run
-	
